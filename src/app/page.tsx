@@ -42,7 +42,7 @@ export default function Home() {
             <div className="inline-flex items-center gap-2 rounded-full border border-[#EDB62C]/30 bg-[#EDB62C]/5 px-4 py-2 mb-6">
               <span className="h-2 w-2 rounded-full bg-[#EDB62C]" />
               <span className="text-sm font-medium text-[#EDB62C]">
-                Kingdom Governance Philosophy.
+                Kingdom Governance Philosophy
               </span>
             </div>
             <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl leading-tight">
