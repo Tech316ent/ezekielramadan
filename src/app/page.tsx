@@ -39,9 +39,9 @@ export default function Home() {
 
         <div className="relative mx-auto max-w-4xl px-6 py-24 lg:px-8 lg:py-32">
           <div className="text-center">
-            <div className="inline-flex items-center gap-2 rounded-full border border-amber-500/30 bg-amber-500/5 px-4 py-2 mb-6">
-              <span className="h-2 w-2 rounded-full bg-amber-500" />
-              <span className="text-sm font-medium text-amber-500">
+            <div className="inline-flex items-center gap-2 rounded-full border border-[#EDB62C]/30 bg-[#EDB62C]/5 px-4 py-2 mb-6">
+              <span className="h-2 w-2 rounded-full bg-[#EDB62C]" />
+              <span className="text-sm font-medium text-[#EDB62C]">
                 Kingdom Governance Philosophy.
               </span>
             </div>
